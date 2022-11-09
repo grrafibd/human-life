@@ -1,3 +1,5 @@
 this is from local
 
 this is from ktln-rafi2
+
+this is new line after branch restrict - rafi2
